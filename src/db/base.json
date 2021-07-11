@@ -1,0 +1,20 @@
+
+{
+    "datas": [
+        {
+            "title": "YouTube",
+            "description" : "Acompanhe nossos vídeos mais detalhados e nossas lives de lançamentos.",
+            "link" : "https://www.youtube.com/channel/UC2xap4ELq-yIoo9KujkTY1A"
+        },
+        {
+            "title": "Instagram",
+            "description" : "Venha ver os bastidores das nossas construções e nossas ideias em primeira mão.",
+            "link" : "https://www.instagram.com/mattress.spaceofc/"
+        },
+        {
+            "title": "GitHub",
+            "description" : "É código o que você quer ? Então toma!",
+            "link" : "https://github.com/Deivesilvaka"
+        }
+    ]
+}
