@@ -61,7 +61,7 @@ w {
 #content { 
        align-self: center;
        margin-top: 35px;
-       margin-left: 60px;
+       margin-left: 80px;
 }
 
 @media (max-width: 600px) {

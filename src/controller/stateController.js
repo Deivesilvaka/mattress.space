@@ -4,7 +4,6 @@ import fs from 'fs'
 
 export default class State {
     static async loadDB() {
-        console.log(path.join(fs.realpathSync('.'), "..", "db", "base.json"))
         const database = JSON.parse(fs.readFileSync(path.join(fs.realpathSync('.'), "src", "db", "base.json"), "utf-8"))
         return database
     }
