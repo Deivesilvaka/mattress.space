@@ -2,6 +2,11 @@
 {
     "datas": [
         {
+            "title": "MSpace Store",
+            "description" : "Colabore com nosso projeto, dê uma olhada nos produtos da nossa loja parceira.",
+            "link" : "https://www.instagram.com/mspacestore/"
+        },
+        {
             "title": "Calendário",
             "description" : "Acompanhe quando terá videos novos, lives ou lançamentos.",
             "link" : "/calendar"
@@ -12,53 +17,11 @@
             "link" : "https://www.youtube.com/channel/UC2xap4ELq-yIoo9KujkTY1A"
         },
         {
-            "title": "Instagram",
-            "description" : "Venha ver os bastidores das nossas construções e nossas ideias em primeira mão.",
-            "link" : "https://www.instagram.com/mattress.spaceofc/"
-        },
-        {
             "title": "GitHub",
             "description" : "É código o que você quer ? Então toma!",
             "link" : "https://github.com/Deivesilvaka"
         }
     ],
 
-    "db" : [
-        {
-            "title" : "17/07/2021",
-            "activities" : [
-                {
-                    "title" : "Teste do motor ( APROVADO )",
-                    "link" : "https://www.instagram.com/p/CRb9tjgH3So/"
-                }
-            ]
-        },
-        {
-            "title" : "18/07/2021",
-            "activities" : [
-                {
-                    "title" : "Virgilio Test Flight ( SUCESSO )",
-                    "link" : "https://www.instagram.com/p/CRe4IFZHXEO/"
-                }
-            ]
-        },
-        {
-            "title" : "31/07/2021",
-            "activities" : [
-                {
-                    "title" : "Análise do voo Virgilio",
-                    "link" : "https://www.instagram.com/mattress.spaceofc/"
-                }
-            ]
-        },
-        {
-            "title" : "01/08/2021",
-            "activities" : [
-                {
-                    "title" : "Teste do motor Double B",
-                    "link" : "https://www.instagram.com/mattress.spaceofc/"
-                }
-            ]
-        }
-    ]
+    "db" : []
 }
