@@ -14,6 +14,10 @@ routes.get("/", (req, res) => {
     res.sendFile(path.join(realpathSync("."), "src", "public", "index.html"))
 })
 
+routes.get("/pix", (req, res) => {
+    res.sendFile(path.join(realpathSync("."), "src", "public", "index.html"))
+})
+
 routes.get("/datas", ContentController.getDatas)
 
 

@@ -2,9 +2,9 @@
 {
     "datas": [
         {
-            "title": "MSpace Store",
-            "description" : "Dê uma olhada nos produtos da nossa loja parceira ( 10% de desconto ).",
-            "link" : "https://www.instagram.com/mspacestore/"
+            "title": "Nos ajude a melhorar cada vez mais",
+            "description" : "Clique aqui para copiar o nossa chave PIX.",
+            "link" : "/pix?key=pixkey"
         },
         {
             "title": "Calendário",
