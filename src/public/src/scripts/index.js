@@ -6,7 +6,7 @@ async function confereCreadentials () {
     const clipboard = new ClipboardJS('#content>a')
 
     clipboard.on('success', function(e) {
-        alert(`Chave copiada com sucesso: mattress.spaceofc@gmail.com`)
+        alert(`Chave copiada com sucesso: mattress.spaceofc@gmail.com, você será redirecionado para o catarse após o okay!`)
     })
 
     clipboard.on('error', function(e) {

@@ -12,7 +12,7 @@ export default class ContentController {
         const rule = `data-clipboard-action="copy" data-clipboard-target="#textForCopy"`
         let allContent = ""
             content.map((item, index) => {
-                allContent += `<a ${index === 0 ? rule : `href="${item.link}"`}><div id="allContent">`
+                allContent += `<a ${index === 0 ? `${rule} href="${item.link}"` : `href="${item.link}"`}><div id="allContent">`
                     allContent += `<h2>${item.title}</h2>`
                     allContent += `<p>${item.description}</p>`
                 allContent += "</div></a>"
